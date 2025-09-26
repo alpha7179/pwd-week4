@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "송림식당",
+    "category": "한식",
+    "location": "경기 수원시 영통구 월드컵로193번길 21 원천동",
+    "priceRange": "7,000-13,000원",
+    "rating": 4.99,
+    "description": "최고의 한식 맛집입니다.",
+    "recommendedMenu": ["순두부", "김치찌개","소불고기", "제육볶음"],
+    "likes": 0,
+    "image": "https://mblogthumb-phinf.pstatic.net/MjAyMjA2MTJfODEg/MDAxNjU0OTYzNTM3MjE1.1BfmrmOsz_B6DBHAnhQSs6qfNIDnssofR-DrzMfigIIg.JHHDheG6ifJjtfKUqLss_mLXWFE9fNJ5BmepNUVXSOog.PNG.cary63/image.png?type=w966"
+  },
+  {
+    "id": 2,
+    "name": "별미떡볶이",
+    "category": "분식",
+    "location": "경기 수원시 영통구 아주로 42 아카데미빌딩",
+    "priceRange": "7,000-10,000원",
+    "rating": 4.92,
+    "description": "바삭한 튀김과 함께하는 행복한 한입",
+    "recommendedMenu": ["떡볶이", "튀김", "순대", "어묵"],
+    "likes": 0,
+    "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA4MTJfMjcg%2FMDAxNzU0OTQ5ODk1Mjg0.GR6i3mNpJJXyqQrozGEJ65InCDBGlEmxc0aCeVHncJgg.sduDPX67J8hhoGxq4vLohpS4dXk1w-706dQLPfVs1iwg.JPEG%2Foutput%25A3%25DF1564208956.jpg"
+  },
+  {
+    "id": 3,
+    "name": "SOGO",
+    "category": "일식",
+    "location": "경기 수원시 영통구 월드컵로193번길 7",
+    "priceRange": "10,000-16,000원",
+    "rating": 4.89,
+    "description": "일식 맛집, 구 허수아비,",
+    "recommendedMenu": ["냉모밀", "김치돈까스나베", "코돈부르"],
+    "likes": 0,
+    "image": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190707_63%2F1562462598960nPDMy_JPEG%2FW7iKQEhTMzCF3flC1t0pzgzF.jpeg.jpg"
+  }
+]
