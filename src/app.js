@@ -14,6 +14,11 @@ function createApp() {
 
   app.use(express.static('public'));
 
+  app.get('/', (req, res) => {
+  res.send('Welcome to Ajou Campus Foodmap API');
+});
+
+
   app.get('/health', (req, res) => {
     res.json({ status: 'ok' });
   });
